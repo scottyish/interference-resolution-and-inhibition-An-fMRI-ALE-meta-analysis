@@ -1,0 +1,7 @@
+// Reference=MNI
+// Hampshire, 2010: Stop > Go, Activations
+// Subjects=14
+-36	16	-4
+42	18	-6
+-50	-48	44
+50	-42	48

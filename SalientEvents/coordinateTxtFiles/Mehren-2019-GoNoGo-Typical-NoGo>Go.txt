@@ -1,0 +1,11 @@
+// Reference=MNI
+// Mehren, 2019: NoGo > Go, Activations
+// Subjects=20
+30	24	4
+36	20	0
+32	32	30
+-26	18	-8
+-34	20	2
+34	-42	40
+30	-38	46
+52	-30	32

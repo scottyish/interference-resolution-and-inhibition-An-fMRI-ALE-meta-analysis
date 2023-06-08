@@ -1,0 +1,7 @@
+// Reference=MNI
+// Osada, 2019: Stop > Go, Activations
+// Subjects=14
+46	8	26
+8	14	58
+36	-56	48
+56	-36	20

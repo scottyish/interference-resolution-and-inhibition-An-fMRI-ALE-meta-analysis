@@ -1,0 +1,8 @@
+// Reference=MNI
+// Gaillard, 2020: Stop > Go, Activations
+// Subjects=38
+62	-38	6
+44	2	44
+20	10	-6
+-46	-30	10
+-14	-74	-28
