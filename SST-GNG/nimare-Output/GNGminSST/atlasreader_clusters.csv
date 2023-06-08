@@ -1,0 +1,2 @@
+cluster_id,peak_x,peak_y,peak_z,cluster_mean,volume_mm,aal,harvard_oxford,juelich
+    1,   26,  -16,   50,3.44816, 1376,70.35% no_label; 29.07% Precentral_R,51.16% no_label; 48.26% Right_Precentral_Gyrus,43.60% GM_Premotor_cortex_BA6_R; 33.72% WM_Corticospinal_tract_R; 22.09% WM_Callosal_body

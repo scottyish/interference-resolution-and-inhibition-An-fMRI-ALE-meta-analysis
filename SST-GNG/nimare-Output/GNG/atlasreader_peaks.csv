@@ -1,0 +1,10 @@
+cluster_id,peak_x,peak_y,peak_z,peak_value,volume_mm,aal,harvard_oxford,juelich
+    1,   32,   18,   -4,3.71902, 4712,no_label,52.0% Right_Insular_Cortex,15.0% WM_Inferior_occipito-frontal_fascicle_R
+    2,   40,    0,   48,3.71902, 2992,Precentral_R,32.0% Right_Middle_Frontal_Gyrus; 26.0% Right_Precentral_Gyrus,26.0% GM_Premotor_cortex_BA6_R
+    3,  -46,  -78,   -2,3.71902, 1784,Occipital_Mid_L,73.0% Left_Lateral_Occipital_Cortex_inferior_division,10.0% GM_Visual_cortex_V5_L
+    4,  -30,   20,    0,3.71902, 1608,no_label,32.0% Left_Insular_Cortex,0% no_label
+    5,   34,  -68,   46,    0, 1504,Angular_R,70.0% Right_Lateral_Occipital_Cortex_superior_division,20.0% GM_Superior_parietal_lobule_7A_R; 15.0% GM_Superior_parietal_lobule_7P_R; 10.0% GM_Anterior_intra-parietal_sulcus_hIP3_R; 9.0% GM_Inferior_parietal_lobule_Pga_R; 6.0% GM_Anterior_intra-parietal_sulcus_hIP1_R
+    6,   50,  -72,   -4,3.29053,  944,Temporal_Inf_R,77.0% Right_Lateral_Occipital_Cortex_inferior_division,0% no_label
+    7,  -44,   -6,   48,2.03154,  800,Precentral_L,59.0% Left_Precentral_Gyrus,71.0% GM_Premotor_cortex_BA6_L; 24.0% GM_Primary_motor_cortex_BA4a_L; 13.0% WM_Corticospinal_tract_L; 10.0% GM_Primary_somatosensory_cortex_BA3b_L
+    8,    4,   -2,   60,2.03154,  800,Supp_Motor_Area_R,88.0% Right_Juxtapositional_Lobule_Cortex_(formerly_Supplementary_Motor_Cortex); 5.0% Right_Precentral_Gyrus,90.0% GM_Premotor_cortex_BA6_R
+    9,  -24,    8,    6,3.71902,  584,Putamen_L,99.0% Left_Putamen,0% no_label

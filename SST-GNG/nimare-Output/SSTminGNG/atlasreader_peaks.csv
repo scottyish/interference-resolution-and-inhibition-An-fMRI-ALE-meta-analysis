@@ -1,0 +1,6 @@
+cluster_id,peak_x,peak_y,peak_z,peak_value,volume_mm,aal,harvard_oxford,juelich
+    1,  -56,  -36,   32,3.89059, 3976,SupraMarginal_L,42.0% Left_Supramarginal_Gyrus_anterior_division; 16.0% Left_Parietal_Operculum_Cortex,64.0% GM_Inferior_parietal_lobule_PF_L; 57.0% GM_Inferior_parietal_lobule_PFcm_L; 7.0% GM_Anterior_intra-parietal_sulcus_hIP2_L
+    2,   22,  -74,  -14,3.29053, 3064,Lingual_R,65.0% Right_Occipital_Fusiform_Gyrus; 16.0% Right_Lingual_Gyrus,34.0% GM_Visual_cortex_V3V_R; 26.0% GM_Visual_cortex_V4_R; 18.0% GM_Visual_cortex_V2_BA18_R
+    3,    4,   24,   36,    0, 2920,Cingulate_Mid_R,59.0% Right_Paracingulate_Gyrus; 41.0% Right_Cingulate_Gyrus_anterior_division,0% no_label
+    4,  -40,   12,   -6,3.89059, 1960,Insula_L,89.0% Left_Insular_Cortex,0% no_label
+    5,  -26,  -56,   -2,3.71902, 1632,Lingual_L,25.0% Left_Lingual_Gyrus,48.0% WM_Optic_radiation_L; 24.0% WM_Callosal_body; 18.0% GM_Visual_cortex_V2_BA18_L; 11.0% GM_Visual_cortex_V1_BA17_L
