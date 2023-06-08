@@ -1,0 +1,9 @@
+// Reference=MNI
+// Tabu, 2011: Stop > Go, Activations
+// Subjects=13
+54	14	10
+36	16	4
+44	32	36
+-30	20	-4	
+-38	12	6
+-4	22	52

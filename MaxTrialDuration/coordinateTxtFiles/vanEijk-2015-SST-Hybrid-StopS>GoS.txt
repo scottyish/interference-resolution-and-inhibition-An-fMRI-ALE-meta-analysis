@@ -1,0 +1,10 @@
+// Reference=MNI
+// vanEijk, 2015: Stop > Go, Activations (b)
+// Subjects=25
+32	24	-6
+-32	24	0
+-38	36	38
+8	22	34
+32	-76	-12
+24	-30	0
+-30	-68	-50

@@ -1,0 +1,17 @@
+cluster_id,peak_x,peak_y,peak_z,peak_value,volume_mm,aal,harvard_oxford,juelich
+    1,   34,   18,   -4,3.71902, 8848,no_label,70.0% Right_Insular_Cortex,12.0% WM_Inferior_occipito-frontal_fascicle_R
+    2,   46,    6,   36,3.71902, 7976,Precentral_R,41.0% Right_Precentral_Gyrus; 27.0% Right_Middle_Frontal_Gyrus; 5.0% Right_Inferior_Frontal_Gyrus_pars_opercularis,16.0% GM_Broca's_area_BA44_R
+    3,   42,  -62,  -10,3.71902, 4992,Temporal_Inf_R,16.0% Right_Lateral_Occipital_Cortex_inferior_division; 14.0% Right_Occipital_Fusiform_Gyrus; 13.0% Right_Temporal_Occipital_Fusiform_Cortex; 7.0% Right_Inferior_Temporal_Gyrus_temporooccipital_part,9.0% GM_Visual_cortex_V5_R
+    4,  -40,  -70,   -8,3.71902, 4696,Occipital_Inf_L,45.0% Left_Lateral_Occipital_Cortex_inferior_division; 18.0% Left_Occipital_Fusiform_Gyrus,10.0% GM_Visual_cortex_V5_L
+    5,  -32,   18,   -2,3.71902, 4584,Insula_L,41.0% Left_Insular_Cortex,0% no_label
+    6,    8,   14,   54,3.71902, 3832,Supp_Motor_Area_R,27.0% Right_Superior_Frontal_Gyrus; 13.0% Right_Paracingulate_Gyrus,40.0% GM_Premotor_cortex_BA6_R
+    7,   58,  -44,    8,3.71902, 2488,Temporal_Mid_R,51.0% Right_Middle_Temporal_Gyrus_temporooccipital_part; 16.0% Right_Supramarginal_Gyrus_posterior_division; 11.0% Right_Angular_Gyrus,0% no_label
+    8,   34,  -60,   46,    0, 2160,Angular_R,52.0% Right_Lateral_Occipital_Cortex_superior_division; 10.0% Right_Superior_Parietal_Lobule; 8.0% Right_Angular_Gyrus,39.0% GM_Anterior_intra-parietal_sulcus_hIP3_R; 6.0% GM_Anterior_intra-parietal_sulcus_hIP1_R; 5.0% GM_Superior_parietal_lobule_7P_R
+    9,   62,  -42,   26,3.71902, 1816,SupraMarginal_R,61.0% Right_Supramarginal_Gyrus_posterior_division; 13.0% Right_Angular_Gyrus,50.0% GM_Inferior_parietal_lobule_PFm_R; 44.0% GM_Inferior_parietal_lobule_PF_R; 18.0% GM_Inferior_parietal_lobule_Pga_R
+   10,  -30,  -90,    4,3.71902, 1528,Occipital_Mid_L,21.0% Left_Lateral_Occipital_Cortex_inferior_division; 16.0% Left_Occipital_Pole; 13.0% Left_Lateral_Occipital_Cortex_superior_division,9.0% GM_Visual_cortex_V3V_L; 5.0% GM_Visual_cortex_V2_BA18_L
+   11,  -60,  -46,   34,3.54008, 1480,SupraMarginal_L,61.0% Left_Supramarginal_Gyrus_posterior_division; 14.0% Left_Angular_Gyrus; 8.0% Left_Supramarginal_Gyrus_anterior_division,45.0% GM_Inferior_parietal_lobule_PF_L; 42.0% GM_Inferior_parietal_lobule_PFm_L; 10.0% GM_Inferior_parietal_lobule_Pga_L
+   12,   36,  -88,    2,3.43161, 1432,Occipital_Mid_R,41.0% Right_Lateral_Occipital_Cortex_inferior_division; 23.0% Right_Occipital_Pole; 9.0% Right_Lateral_Occipital_Cortex_superior_division,0% no_label
+   13,   52,  -24,   -6,3.19465, 1320,Temporal_Mid_R,51.0% Right_Middle_Temporal_Gyrus_posterior_division; 18.0% Right_Superior_Temporal_Gyrus_posterior_division,0% no_label
+   14,   50,  -40,   46,3.09023, 1304,Parietal_Inf_R,43.0% Right_Supramarginal_Gyrus_posterior_division; 12.0% Right_Angular_Gyrus,34.0% GM_Inferior_parietal_lobule_PF_R; 26.0% GM_Anterior_intra-parietal_sulcus_hIP2_R; 24.0% GM_Inferior_parietal_lobule_PFm_R; 7.0% GM_Anterior_intra-parietal_sulcus_hIP1_R
+   15,  -52,  -60,    8,2.14441,  904,Temporal_Mid_L,41.0% Left_Middle_Temporal_Gyrus_temporooccipital_part; 28.0% Left_Lateral_Occipital_Cortex_inferior_division; 10.0% Left_Angular_Gyrus,0% no_label
+   16,    8,   22,   34,1.8606,  800,Cingulate_Mid_R,42.0% Right_Paracingulate_Gyrus; 36.0% Right_Cingulate_Gyrus_anterior_division,0% no_label
