@@ -1,0 +1,6 @@
+digraph G {
+	"Keywords Pubmed" -> Abstracts
+	Abstracts -> "Re-check abstracts"
+	"Re-check abstracts" -> "Read full article"
+	"Read full article" -> Include
+}
