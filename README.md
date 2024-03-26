@@ -1,0 +1,1 @@
+Query and analysis code for the paper 'Cortical and subcortical contributions to interference resolution and inhibition – An fMRI ALE meta-analysis', published in Neuroscience & Biobehavioral Reviews (https://www.sciencedirect.com/science/article/pii/S0149763421003201).
